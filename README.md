@@ -6,6 +6,7 @@ Not recommended due to poor code quality.
 
 - [Xiaomi Redmi 9 (lancelot) / Helio G80](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/lancelot-q-oss)
 - [Xiaomi Redmi Note 9 (merlin) / Helio G85](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/merlin-r-oss)
+- [Gigaset Rephone / Helio G85](https://myrephone.com/opensource.7z) with [GitHub mirror](https://github.com/42fh/rephone-open-source) 
 
 ...and other 4.14 kernels
 
